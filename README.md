@@ -6,7 +6,7 @@ About me:
 I love movies (Halloween is my favorite)
 I have three dogs who I love very much
 ![IMG-3835](https://user-images.githubusercontent.com/110944297/192166870-250f230f-2d8d-4f89-9f7e-f21451ed3709.jpg)
-![IMG-1854](https://user-images.githubusercontent.com/110944297/192166891-1fb32601-6020-4fb9-9dae-f7923aa0506d.jpg)
+
 
 
 
