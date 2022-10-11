@@ -4,12 +4,7 @@ My name is Brittany Yarbrough and I'm a software developer currently enrolled at
 
 About me:
 I love movies (Halloween is my favorite)
-I have three dogs who I love very much
-
-
-
-
-**brittmyar/brittmyar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have three dogs who I love very much!
 
 
 - 🌱 I’m currently learning ...
