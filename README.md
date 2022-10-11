@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-My name is Brittany Yarbrough and I'm a software developer currently enrolled at a coding bootcamp at General Assembly. I love the front-end aspect of development and making everything look as good as possible. 
+My name is Brittany Yarbrough and I'm a software developer currently enrolled at a coding bootcamp at General Assembly. I love the back-end aspect of development and making everything look as neat as possible. 
 
 About me:
 I love movies (Halloween is my favorite)
 I have three dogs who I love very much
-![IMG-3835](https://user-images.githubusercontent.com/110944297/192166870-250f230f-2d8d-4f89-9f7e-f21451ed3709.jpg)
 
 
 
