@@ -7,8 +7,8 @@ With a passion for data analytics, I started exploring online resources to expan
 With my strong work ethic and enthusiasm for new challenges in data analytics, I am confident in my ability to make a valuable contribution to any data analytics team
 
 About me:
-I love movies (Halloween is my favorite)
-I have three dogs who I love very much!
+- I love movies (Halloween is my favorite)
+- I have three dogs who I love very much!
 
 
 - 💬 Ask me about ...
